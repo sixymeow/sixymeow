@@ -1,4 +1,4 @@
-<div line-height="0.7">
+<div line-height="0.1">
   <pre align="center">
  ███████ ██ ██   ██       ██ ██████  
  ██      ██  ██ ██       ██       ██ 
