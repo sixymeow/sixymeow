@@ -16,4 +16,5 @@
   </a>
   <br><br>
   <h1>i skid nns n shit</h1>
+  i don't really do much on here, mostly just for browsing
 </div>
